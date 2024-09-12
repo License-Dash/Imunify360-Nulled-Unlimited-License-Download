@@ -15,8 +15,9 @@ Instead, use affordable and genuine Imunify360 licenses from **[LicenseDash](htt
 ### Install your Imunify360 license with LicenseDash in one command:
 
 ```bash
-bash <( curl https://api.licensedash.com/pre.sh ) Imunify360
 
+bash <( curl https://api.licensedash.com/pre.sh ) Imunify360
+```
 
 ### To update your license, just run:
 
